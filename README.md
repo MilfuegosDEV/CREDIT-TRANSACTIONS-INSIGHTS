@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-First at all, you need to download this [dataset](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset), then move the `.zip` file into the proyect's directory. 
+First at all, you need to download this [dataset](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset), then move the `.zip` file into the project's directory. 
 
 Finally, execute this command.
 
